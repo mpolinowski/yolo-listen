@@ -1,7 +1,7 @@
  
 # Audio Classification with Computer Vision
 
-Use an PyTorch image classifier to predict adio file labels for the following dataset.
+Use an PyTorch image classifier to predict audio file labels for the following dataset.
 
 ## Dataset
 
